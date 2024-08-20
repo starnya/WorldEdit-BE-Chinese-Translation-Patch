@@ -1,0 +1,16 @@
+{
+	"content": [
+		{
+			"path": "manifest.json"
+		},
+		{
+			"path": "pack_icon.png"
+		},
+		{
+			"path": "texts/zh_CN.lang"
+		},
+		{
+			"path": "texts/languages.json"
+		}
+	]
+}

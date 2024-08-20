@@ -26,4 +26,4 @@
 - **必须**说明修改版本的任何更改。
 - **必须**使用相同方式共享。
 
-_感谢附加包的作者与[crowdin](https://zh.crowdin.com/project/worldedit-for-bedrock/)上的翻译者，他们造就了WorldEdit-BE附加包，而我只是简单的修订了翻译:)_
+_感谢附加包的原作者[SIsilicon](https://github.com/SIsilicon)与[Crowdin](https://crowdin.com/project/worldedit-for-bedrock)上的翻译者，他们造就了WorldEdit-BE，而我只是简单的修订了翻译:)_

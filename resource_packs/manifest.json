@@ -4,7 +4,7 @@
         "description": "Chinese translation patch for WorldEdit-BE add-on.",
         "name": "WorldEdit-BE Chinese Translation Patch",
         "uuid": "419fa587-7193-4bee-87b2-70b51cb0a3be",
-        "version": [1, 0 0],
+        "version": [1, 0, 0],
         "platform_locked" : false,
         "min_engine_version": [1, 20, 1]
     },
